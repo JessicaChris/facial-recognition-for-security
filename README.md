@@ -1,4 +1,5 @@
 Face Recognizer with MediaPipe and OpenCV
+
 This project is a real-time face recognition and analysis system built with Python, OpenCV, and MediaPipe. It detects faces via webcam input, analyzes facial orientation, and overlays facial landmarks and information on the video stream.
 
 ✨ Features:
