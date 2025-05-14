@@ -24,7 +24,7 @@ face_recognizer/
 ├── README.md               # Project documentation
 └── requirements.txt        # Dependencies file
 
-🔧 Requirements:
+Requirements:
 
 Python 3.7+
 
@@ -48,7 +48,7 @@ opencv-python
 mediapipe
 numpy
 
-▶ How to Run
+How to Run
 Clone the repository or copy the script.
 
 Run the script:
@@ -77,9 +77,9 @@ For best results, use in a well-lit environment.
 
 You can tweak the min_detection_confidence and max_faces parameters in the constructor for different performance and accuracy levels.
 
-📷 Preview:
+Preview:
 
 Real-time face mesh and orientation analysis.
 
-📝 License:
+License:
 This project is licensed under the MIT License.
